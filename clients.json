@@ -1,0 +1,14 @@
+{
+    "id:": "1",
+    "name": "John Doe",
+    "email": "johndoe@example.com",
+    "phone": "+1 (123) 456-7890",
+    "company": "ABC Tech Solutions",
+    "job_title": "IT Manager",
+    "department": "Information Technology",
+    "location": "New York, NY",
+    "industry": "Technology",
+    "contact": "John Doe",
+    "Evaluation_range": "2",
+    "Context" : "IT cloud possible client"
+}
